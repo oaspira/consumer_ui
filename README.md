@@ -29,6 +29,6 @@ npm instal
 ```
 
 ### Scripts Disponíveis
-npm start: Executa a aplicação em modo de desenvolvimento.
-npm test: Inicia o runner de testes.
-npm run build: Cria a versão otimizada para produção.
+- `npm start`: Executa a aplicação em modo de desenvolvimento.
+- `npm test`: Inicia o runner de testes.
+- `npm run build`: Cria a versão otimizada para produção.
